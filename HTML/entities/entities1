@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="view port" content="width=device-width, initialize">
+        <meta name="keywords" content="HTML, CSS">
+        <meta name="description" content="....">
+        <title>Document</title>
+        <style>
+            em{
+                color: blue;
+                font-style: normal;
+            }
+        </style>
+
+        </head>
+        <body>
+           <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum, fugiat. Commodi, possimus modi? Tenetur ut hic soluta, minus architecto commodi quaerat natus rem obcaecati, perferendis possimus asperiores, quisquam ipsum pariatur.</p>
+        </body>
+</html>
